@@ -1,3 +1,18 @@
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Image_Alt](https://github.com/Neha-Dotcom49/home-hunter-angular/blob/32a7201d62e57fbf35766c7049e12aa07dd67f61/src/assets/images/home.PNG)
+
+
+
+
+
+
+
+
+
+
 # UrbanVista
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
